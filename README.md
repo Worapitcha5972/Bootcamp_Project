@@ -1,5 +1,5 @@
 # Bootcamp Projects
-> This repository is mainly for projects I have done under Data Science Bootcamp.
+> This repository is mainly for projects I have done under Data Science Bootcamp by Data Rockie.
 ## SQL
 [Restaurant_owner](https://github.com/Worapitcha5972/Bootcamp_Projects/blob/03c1031f0ec598e60a56cb4ffd59c15833a181aa/SQL/Restaurant_owner.sql) : Creating a small database for restaurant with 4 SQL queries to analyze data
 
